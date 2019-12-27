@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-srnd",
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "Artistic-2.0",
+  "keywords": [
+    "eslint",
+    "eslintconifg"
+  ],
+  "author": "Tyler Menezes <tylermenezes@srnd.org>",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1"
+  }
+}
